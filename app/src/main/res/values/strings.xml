@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="convert_string">Convert to Euros</string>
+    <string name="dollars_hint">$ To Convert</string>
+    <string name="starting_value">0</string>
+</resources>
